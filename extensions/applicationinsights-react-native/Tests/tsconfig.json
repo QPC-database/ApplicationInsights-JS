@@ -10,5 +10,5 @@
         "declaration": true,
         "outFile": "./Selenium/reactnativeplugin.tests.js"
       },
-      "include": ["Selenium/**/*.ts"],
+      "include": ["Selenium/**/*.ts"]
 }
